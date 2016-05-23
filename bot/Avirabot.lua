@@ -251,6 +251,7 @@ function create_config( )
     "github",
     "broadcast",
     "invite",
+    "spammer1",
     "expire",
     "leave_ban",
     "supergroup"
