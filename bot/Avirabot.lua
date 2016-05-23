@@ -253,14 +253,9 @@ function create_config( )
     "invite",
     "expire",
     "leave_ban",
-    "supergroup",
-    "msg_checks",
-    "weather",
-    "welcome",
-    "webshot",
-    "voice",
+    "supergroup"
     },
-    sudo_users = {179071599},--Sudo users
+    sudo_users = {101564409},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
